@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>專案介紹 on Project EDU</title>
+    <link>https://project-edu.org/course/</link>
+    <description>Recent content in 專案介紹 on Project EDU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
+    <atom:link href="https://project-edu.org/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>114級特殊選才模擬書面審查</title>
+      <link>https://project-edu.org/course/114th-written-review/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>https://project-edu.org/course/114th-written-review/</guid>
+      <description>活動資訊 📅 活動日期:</description>
+    </item>
+    <item>
+      <title>SolveQQ</title>
+      <link>https://project-edu.org/course/solveqq/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>https://project-edu.org/course/solveqq/</guid>
+      <description>緣起:幾個高中生的課</description>
+    </item>
+  </channel>
+</rss>
